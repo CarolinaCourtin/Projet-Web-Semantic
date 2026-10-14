@@ -1,4 +1,4 @@
-## Projet Web Sémantique (Réalisé par Hèlène Moore et Carolina Courtin)
+## Projet Web Sémantique (Réalisé par Hèlène Moore et Carolina Courtin dans le cadre du cours Web Semantic Technologies au semestre d'automne 2024)
 
 Ce projet est une application en Python qui utilise un graphe RDF pour interroger et analyser des données liées à des publications académiques, des auteurs, et leurs domaines d'intérêt.
 
