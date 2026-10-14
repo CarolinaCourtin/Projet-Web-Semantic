@@ -1,0 +1,306 @@
+{
+    "search_metadata": {
+        "id": "6746e3427f3719be9c2bb2e2",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9ecd249a12376a43/6746e3427f3719be9c2bb2e2.json",
+        "created_at": "2024-11-27 09:15:46 UTC",
+        "processed_at": "2024-11-27 09:15:46 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Laura&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/9ecd249a12376a43/6746e3427f3719be9c2bb2e2.html",
+        "total_time_taken": 1.34
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Laura",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Masatoshi Nei",
+            "link": "https://scholar.google.com/citations?hl=en&user=VxOmZDgAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VxOmZDgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VxOmZDgAAAAJ",
+            "affiliations": "Laura Carnell Professor of Biology, Temple University",
+            "email": "Verified email at temple.edu",
+            "cited_by": 424765,
+            "interests": [
+                {
+                    "title": "Evolution",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aevolution",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:evolution"
+                },
+                {
+                    "title": "Evolutionary biology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aevolutionary_biology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:evolutionary_biology"
+                },
+                {
+                    "title": "Molecular evolution",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amolecular_evolution",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:molecular_evolution"
+                },
+                {
+                    "title": "Population genetics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apopulation_genetics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:population_genetics"
+                },
+                {
+                    "title": "Phylogenetics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aphylogenetics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:phylogenetics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VxOmZDgAAAAJ&citpid=3"
+        },
+        {
+            "name": "Laura Fabbri",
+            "link": "https://scholar.google.com/citations?hl=en&user=sCwv_iUAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sCwv_iUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sCwv_iUAAAAJ",
+            "affiliations": "University of Bologna",
+            "email": "Verified email at bo.infn.it",
+            "cited_by": 254503,
+            "interests": [
+                {
+                    "title": "particle physics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aparticle_physics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:particle_physics"
+                },
+                {
+                    "title": "hep-ex",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahep_ex",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:hep_ex"
+                },
+                {
+                    "title": "atlas",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aatlas",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:atlas"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "LAURA DANIELA RODRIGUEZ JIMENEZ",
+            "link": "https://scholar.google.com/citations?hl=en&user=Cs73KjIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Cs73KjIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Cs73KjIAAAAJ",
+            "affiliations": "Estudiante de trabajo social, universidad colegio mayor de cundinamarca",
+            "email": "Verified email at unicolmayor.edu.co",
+            "cited_by": 149893,
+            "interests": [
+                {
+                    "title": "administracion",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aadministracion",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:administracion"
+                },
+                {
+                    "title": "gestion social",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agestion_social",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:gestion_social"
+                },
+                {
+                    "title": "marketing empresarial",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amarketing_empresarial",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:marketing_empresarial"
+                },
+                {
+                    "title": "publicidad empresarial",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apublicidad_empresarial",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:publicidad_empresarial"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Cs73KjIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Laura Cadonati",
+            "link": "https://scholar.google.com/citations?hl=en&user=2Cp1P3UAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2Cp1P3UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2Cp1P3UAAAAJ",
+            "affiliations": "Georgia Institute of Technology",
+            "email": "Verified email at gatech.edu",
+            "cited_by": 126491,
+            "interests": [
+                {
+                    "title": "Particle Astrophysics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aparticle_astrophysics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:particle_astrophysics"
+                },
+                {
+                    "title": "Gravitational Waves",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agravitational_waves",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:gravitational_waves"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Laura Fratiglioni",
+            "link": "https://scholar.google.com/citations?hl=en&user=kg0caCYAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kg0caCYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kg0caCYAAAAJ",
+            "affiliations": "professor in geriatric epidemiology",
+            "email": "Verified email at ki.se",
+            "cited_by": 117474,
+            "interests": [
+                {
+                    "title": "prevention",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprevention",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:prevention"
+                },
+                {
+                    "title": "multimorbidity",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amultimorbidity",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:multimorbidity"
+                },
+                {
+                    "title": "aging",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aaging",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:aging"
+                },
+                {
+                    "title": "dementia",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adementia",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:dementia"
+                },
+                {
+                    "title": "Alzheimer\u00b4s disease",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aalzheimer%C2%B4s_disease",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:alzheimer_s_disease"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kg0caCYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Laura Maria",
+            "link": "https://scholar.google.com/citations?hl=en&user=OKM07I8AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OKM07I8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OKM07I8AAAAJ",
+            "affiliations": "Roskilde Museum",
+            "email": "Verified email at romu.dk",
+            "cited_by": 108960,
+            "interests": [
+                {
+                    "title": "museum",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amuseum",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:museum"
+                },
+                {
+                    "title": "cultural heritage",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acultural_heritage",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cultural_heritage"
+                },
+                {
+                    "title": "religion",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areligion",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:religion"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "arthur m. feldman",
+            "link": "https://scholar.google.com/citations?hl=en&user=OPT1a-0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OPT1a-0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OPT1a-0AAAAJ",
+            "affiliations": "Laura H. Carnell Professor, temple university school of medicine",
+            "email": "Verified email at tuhs.temple.edu",
+            "cited_by": 100417,
+            "interests": [
+                {
+                    "title": "heart",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aheart",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:heart"
+                },
+                {
+                    "title": "heart failure",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aheart_failure",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:heart_failure"
+                },
+                {
+                    "title": "genetics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agenetics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:genetics"
+                },
+                {
+                    "title": "molecular biology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amolecular_biology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:molecular_biology"
+                },
+                {
+                    "title": "clinical trials",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aclinical_trials",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:clinical_trials"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OPT1a-0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Bernd Surrow",
+            "link": "https://scholar.google.com/citations?hl=en&user=VYS9Yz4AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VYS9Yz4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VYS9Yz4AAAAJ",
+            "affiliations": "Laura H. Carnell Professor of Physics, Temple University, Department of Physics",
+            "email": "Verified email at temple.edu",
+            "cited_by": 72750,
+            "interests": [
+                {
+                    "title": "High-Energy Collider QCD physics / Micro \u2026",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahigh_energy_collider_qcd_physics_micro",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:high_energy_collider_qcd_physics_micro_pattern_detector_development"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VYS9Yz4AAAAJ&citpid=4"
+        },
+        {
+            "name": "Laura Clarke",
+            "link": "https://scholar.google.com/citations?hl=en&user=RlUI4SMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RlUI4SMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RlUI4SMAAAAJ",
+            "affiliations": "Health Informatics East",
+            "email": "Verified email at healthinnovationeast.co.uk",
+            "cited_by": 72589,
+            "interests": [
+                {
+                    "title": "Bioinformatics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abioinformatics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:bioinformatics"
+                },
+                {
+                    "title": "Biological and Health Data",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiological_and_health_data",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biological_and_health_data"
+                },
+                {
+                    "title": "FAIR Data",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afair_data",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:fair_data"
+                },
+                {
+                    "title": "metadata",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ametadata",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:metadata"
+                },
+                {
+                    "title": "data discoverability",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_discoverability",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_discoverability"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RlUI4SMAAAAJ&citpid=2"
+        },
+        {
+            "name": "Laura Carstensen",
+            "link": "https://scholar.google.com/citations?hl=en&user=TwvBDf8AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=TwvBDf8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TwvBDf8AAAAJ",
+            "affiliations": "Professor of Psychology, Stanford University",
+            "email": "Verified email at stanford.edu",
+            "cited_by": 71901,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TwvBDf8AAAAJ&citpid=1"
+        }
+    ],
+    "pagination": {
+        "next": "https://serpapi.com/search.json?after_author=NuHDASDn_v8J&engine=google_scholar_profiles&hl=en&mauthors=Laura",
+        "next_page_token": "NuHDASDn_v8J"
+    }
+}

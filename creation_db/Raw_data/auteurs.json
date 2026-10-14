@@ -1,0 +1,333 @@
+{
+    "search_metadata": {
+        "id": "6745f2ab48b9f7eac62088d0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e0c2355337d59bf7/6745f2ab48b9f7eac62088d0.json",
+        "created_at": "2024-11-26 16:09:15 UTC",
+        "processed_at": "2024-11-26 16:09:15 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Mike&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/e0c2355337d59bf7/6745f2ab48b9f7eac62088d0.html",
+        "total_time_taken": 1.58
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Mike",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Mike Robb",
+            "link": "https://scholar.google.com/citations?hl=en&user=kq0NYnMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kq0NYnMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kq0NYnMAAAAJ",
+            "affiliations": "Chemistry Department Imperial College",
+            "email": "Verified email at imperial.ac.uk",
+            "cited_by": 229048,
+            "interests": [
+                {
+                    "title": "Computational chemistry",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_chemistry",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computational_chemistry"
+                },
+                {
+                    "title": "Theoretical Chemistry",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atheoretical_chemistry",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:theoretical_chemistry"
+                },
+                {
+                    "title": "conical intersections",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aconical_intersections",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:conical_intersections"
+                },
+                {
+                    "title": "non adiabatic dynamics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anon_adiabatic_dynamics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:non_adiabatic_dynamics"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Mike A. Nalls",
+            "link": "https://scholar.google.com/citations?hl=en&user=ZjfgPLMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZjfgPLMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZjfgPLMAAAAJ",
+            "affiliations": "Founder/consultant with Data Tecnica International + Data science lead at NIH's Center for \u2026",
+            "email": "Verified email at mail.nih.gov",
+            "cited_by": 172097,
+            "interests": [
+                {
+                    "title": "statistical genetics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astatistical_genetics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:statistical_genetics"
+                },
+                {
+                    "title": "neurodegeneration",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneurodegeneration",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:neurodegeneration"
+                },
+                {
+                    "title": "data science",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_science"
+                },
+                {
+                    "title": "biostatistics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiostatistics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biostatistics"
+                },
+                {
+                    "title": "genomics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agenomics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:genomics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZjfgPLMAAAAJ&citpid=14"
+        },
+        {
+            "name": "mike wright",
+            "link": "https://scholar.google.com/citations?hl=en&user=RIg9DVEAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RIg9DVEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RIg9DVEAAAAJ",
+            "affiliations": "imperial college",
+            "email": "Verified email at imperial.ac.uk",
+            "cited_by": 128947,
+            "interests": [
+                {
+                    "title": "entrepreneurship",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aentrepreneurship",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:entrepreneurship"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RIg9DVEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Mike Lean (MEJ Lean)",
+            "link": "https://scholar.google.com/citations?hl=en&user=R8PPdbQAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=R8PPdbQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "R8PPdbQAAAAJ",
+            "affiliations": "Professor of Human Nutrition, University of Glasgow",
+            "email": "Verified email at glasgow.ac.uk",
+            "cited_by": 97226,
+            "interests": [
+                {
+                    "title": "Food",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afood",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:food"
+                },
+                {
+                    "title": "Nutrition",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anutrition",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:nutrition"
+                },
+                {
+                    "title": "Obesity",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aobesity",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:obesity"
+                },
+                {
+                    "title": "Diabetes",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adiabetes",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:diabetes"
+                },
+                {
+                    "title": "CHD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Achd",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:chd"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=R8PPdbQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Mike Schuster",
+            "link": "https://scholar.google.com/citations?hl=en&user=L9lS9_AAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=L9lS9_AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "L9lS9_AAAAAJ",
+            "affiliations": "Two Sigma",
+            "email": "Verified email at twosigma.com",
+            "cited_by": 93635,
+            "interests": [
+                {
+                    "title": "machine learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "neural networks",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneural_networks",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:neural_networks"
+                },
+                {
+                    "title": "deep learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:deep_learning"
+                },
+                {
+                    "title": "reinforcement learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areinforcement_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:reinforcement_learning"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=L9lS9_AAAAAJ&citpid=1"
+        },
+        {
+            "name": "prof dr ir Mike SM Jetten",
+            "link": "https://scholar.google.com/citations?hl=en&user=iXjCKTgAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=iXjCKTgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "iXjCKTgAAAAJ",
+            "affiliations": "Radboud University, Microbiology, Nijmegen, Netherlands",
+            "email": "Verified email at science.ru.nl",
+            "cited_by": 86901,
+            "interests": [
+                {
+                    "title": "anaerobic microbiology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aanaerobic_microbiology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:anaerobic_microbiology"
+                },
+                {
+                    "title": "nitrogen cycle",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anitrogen_cycle",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:nitrogen_cycle"
+                },
+                {
+                    "title": "methane archaea",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amethane_archaea",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:methane_archaea"
+                },
+                {
+                    "title": "anammox",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aanammox",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:anammox"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iXjCKTgAAAAJ&citpid=3"
+        },
+        {
+            "name": "Mike Wingfield",
+            "link": "https://scholar.google.com/citations?hl=en&user=wT4V7isAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wT4V7isAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wT4V7isAAAAJ",
+            "affiliations": "Professor, Forestry and Agricultural Biotechnology Institute (FABI), University of Pretoria",
+            "email": "Verified email at fabi.up.ac.za",
+            "cited_by": 80236,
+            "interests": [
+                {
+                    "title": "forest protection",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aforest_protection",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:forest_protection"
+                },
+                {
+                    "title": "mycology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amycology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:mycology"
+                },
+                {
+                    "title": "entomology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aentomology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:entomology"
+                },
+                {
+                    "title": "biotechnology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiotechnology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biotechnology"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wT4V7isAAAAJ&citpid=5"
+        },
+        {
+            "name": "Mike W. Peng",
+            "link": "https://scholar.google.com/citations?hl=en&user=z1Kz8gQAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=z1Kz8gQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "z1Kz8gQAAAAJ",
+            "affiliations": "Jindal Chair of Global Strategy, University of Texas at Dallas",
+            "email": "Verified email at utdallas.edu",
+            "cited_by": 66580,
+            "interests": [
+                {
+                    "title": "International Business",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainternational_business",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:international_business"
+                },
+                {
+                    "title": "Global Strategy",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aglobal_strategy",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:global_strategy"
+                },
+                {
+                    "title": "Strategic Management",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astrategic_management",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:strategic_management"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=z1Kz8gQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Mike Lewis",
+            "link": "https://scholar.google.com/citations?hl=en&user=SnQnQicAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SnQnQicAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SnQnQicAAAAJ",
+            "affiliations": "Facebook AI Research",
+            "email": "Verified email at fb.com",
+            "cited_by": 66408,
+            "interests": [
+                {
+                    "title": "Natural language processing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_language_processing"
+                },
+                {
+                    "title": "machine learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "linguistics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alinguistics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:linguistics"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Mike Tyers",
+            "link": "https://scholar.google.com/citations?hl=en&user=9zEuqoIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9zEuqoIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9zEuqoIAAAAJ",
+            "affiliations": "The Hospital for Sick Children",
+            "email": "Verified email at sickkids.ca",
+            "cited_by": 61552,
+            "interests": [
+                {
+                    "title": "cell growth and division",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acell_growth_and_division",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cell_growth_and_division"
+                },
+                {
+                    "title": "systems and synthetic biology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asystems_and_synthetic_biology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:systems_and_synthetic_biology"
+                },
+                {
+                    "title": "chemical biology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Achemical_biology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:chemical_biology"
+                },
+                {
+                    "title": "ubiquitin-proteasome system",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aubiquitin_proteasome_system",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:ubiquitin_proteasome_system"
+                },
+                {
+                    "title": "infectious disease",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainfectious_disease",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:infectious_disease"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ],
+    "pagination": {
+        "next": "https://serpapi.com/search.json?after_author=UzUHAI0P__8J&engine=google_scholar_profiles&hl=en&mauthors=Mike",
+        "next_page_token": "UzUHAI0P__8J"
+    }
+}

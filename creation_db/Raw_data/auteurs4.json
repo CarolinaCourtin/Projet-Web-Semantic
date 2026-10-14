@@ -1,0 +1,292 @@
+{
+    "search_metadata": {
+        "id": "6746e3ee922cce5d1bf4809d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6dcbe47634c61ae7/6746e3ee922cce5d1bf4809d.json",
+        "created_at": "2024-11-27 09:18:38 UTC",
+        "processed_at": "2024-11-27 09:18:38 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Alexander&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/6dcbe47634c61ae7/6746e3ee922cce5d1bf4809d.html",
+        "total_time_taken": 0.6
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Alexander",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Alexander Belyaev",
+            "link": "https://scholar.google.com/citations?hl=en&user=vDSwVTsAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vDSwVTsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vDSwVTsAAAAJ",
+            "affiliations": "University of Southampton",
+            "email": "Verified email at soton.ac.uk",
+            "cited_by": 237070,
+            "interests": [
+                {
+                    "title": "Particle Physics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aparticle_physics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:particle_physics"
+                },
+                {
+                    "title": "Cosmology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acosmology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cosmology"
+                },
+                {
+                    "title": "Collider Phenomenology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acollider_phenomenology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:collider_phenomenology"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vDSwVTsAAAAJ&citpid=3"
+        },
+        {
+            "name": "Alexander J. Lazar MD/PhD",
+            "link": "https://scholar.google.com/citations?hl=en&user=11ngS6AAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=11ngS6AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "11ngS6AAAAAJ",
+            "affiliations": "Professor; Pathology, Genomic Medicine, Dermatology & Transl Molec Pathol, MD Anderson \u2026",
+            "email": "Verified email at mdanderson.org",
+            "cited_by": 157558,
+            "interests": [
+                {
+                    "title": "cancer genomics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acancer_genomics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cancer_genomics"
+                },
+                {
+                    "title": "precision medicine",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprecision_medicine",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:precision_medicine"
+                },
+                {
+                    "title": "microbiome",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amicrobiome",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:microbiome"
+                },
+                {
+                    "title": "sarcoma",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asarcoma",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:sarcoma"
+                },
+                {
+                    "title": "melanoma",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amelanoma",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:melanoma"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=11ngS6AAAAAJ&citpid=4"
+        },
+        {
+            "name": "Alexander Castillo Arce",
+            "link": "https://scholar.google.com/citations?hl=en&user=80PXW-AAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=80PXW-AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "80PXW-AAAAAJ",
+            "affiliations": "Estudiante",
+            "cited_by": 151575,
+            "interests": [
+                {
+                    "title": "General",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ageneral",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:general"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Alexander Gude",
+            "link": "https://scholar.google.com/citations?hl=en&user=MGzxB68AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MGzxB68AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MGzxB68AAAAJ",
+            "affiliations": "",
+            "email": "Verified email at physics.umn.edu",
+            "cited_by": 141078,
+            "interests": [
+                {
+                    "title": "Deep learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:deep_learning"
+                },
+                {
+                    "title": "Particle physics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aparticle_physics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:particle_physics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MGzxB68AAAAJ&citpid=1"
+        },
+        {
+            "name": "Alexander",
+            "link": "https://scholar.google.com/citations?hl=en&user=g5eqK9UAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=g5eqK9UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "g5eqK9UAAAAJ",
+            "affiliations": "Estudiante",
+            "email": "Verified email at inacapmail.cl",
+            "cited_by": 133838,
+            "interests": [
+                {
+                    "title": "Agronom\u00eda",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aagronom%C3%ADa",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:agronom%C3%ADa"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "David Alexander Alvarez Palacio",
+            "link": "https://scholar.google.com/citations?hl=en&user=cO_yL00AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cO_yL00AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cO_yL00AAAAJ",
+            "affiliations": "Universidad Minuto De Dios",
+            "email": "Verified email at uniminuto.edu.co",
+            "cited_by": 131820,
+            "interests": [
+                {
+                    "title": "Auditor\u00eda",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aauditor%C3%ADa",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:auditor%C3%ADa"
+                },
+                {
+                    "title": "Veedur\u00eda",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aveedur%C3%ADa",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:veedur%C3%ADa"
+                },
+                {
+                    "title": "Control Social",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acontrol_social",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:control_social"
+                },
+                {
+                    "title": "Participaci\u00f3n Ciudadana",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aparticipaci%C3%B3n_ciudadana",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:participaci%C3%B3n_ciudadana"
+                },
+                {
+                    "title": "Control Fiscal",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acontrol_fiscal",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:control_fiscal"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Alexander C Berg",
+            "link": "https://scholar.google.com/citations?hl=en&user=jjEht8wAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=jjEht8wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jjEht8wAAAAJ",
+            "affiliations": "Professor of Computer Science, University of California Irvine",
+            "email": "Verified email at uci.edu",
+            "cited_by": 128697,
+            "interests": [
+                {
+                    "title": "computer vision",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_vision"
+                },
+                {
+                    "title": "machine learning",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:machine_learning"
+                },
+                {
+                    "title": "visual perception",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avisual_perception",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:visual_perception"
+                },
+                {
+                    "title": "web mining",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aweb_mining",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:web_mining"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jjEht8wAAAAJ&citpid=2"
+        },
+        {
+            "name": "Alexander",
+            "link": "https://scholar.google.com/citations?hl=en&user=pMWP5p0AAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=pMWP5p0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pMWP5p0AAAAJ",
+            "affiliations": "English Educator",
+            "email": "Verified email at ski.sch.id",
+            "cited_by": 120285,
+            "interests": [
+                {
+                    "title": "English Education and Applied Linguistics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenglish_education_and_applied_linguistics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:english_education_and_applied_linguistics"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pMWP5p0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Alexander Zaytsev",
+            "link": "https://scholar.google.com/citations?hl=en&user=1bTldL5M8EUC",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1bTldL5M8EUC&engine=google_scholar_author&hl=en",
+            "author_id": "1bTldL5M8EUC",
+            "affiliations": "Brookhaven National Laboratory",
+            "email": "Verified email at bnl.gov",
+            "cited_by": 111407,
+            "interests": [
+                {
+                    "title": "Experimental Physics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aexperimental_physics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:experimental_physics"
+                },
+                {
+                    "title": "Linux System Administration",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alinux_system_administration",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:linux_system_administration"
+                },
+                {
+                    "title": "High Throughput Computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahigh_throughput_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:high_throughput_computing"
+                },
+                {
+                    "title": "High Performance Computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahigh_performance_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:high_performance_computing"
+                },
+                {
+                    "title": "Cloud Computing",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acloud_computing",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cloud_computing"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1bTldL5M8EUC&citpid=2"
+        },
+        {
+            "name": "Christoph J. Brabec",
+            "link": "https://scholar.google.com/citations?hl=en&user=NCsNHesAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NCsNHesAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NCsNHesAAAAJ",
+            "affiliations": "Friedrich Alexander Universit\u00e4t Erlangen N\u00fcrnberg; Forschungszentrum J\u00fclich",
+            "email": "Verified email at fau.de",
+            "cited_by": 110921,
+            "interests": [
+                {
+                    "title": "Photovoltaics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aphotovoltaics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:photovoltaics"
+                },
+                {
+                    "title": "Organic Solar Cells - Perovksite Solar Cells",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aorganic_solar_cells_perovksite_solar_cells",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:organic_solar_cells_perovksite_solar_cells"
+                },
+                {
+                    "title": "Non Destructive Imaging and Accelerated",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anon_destructive_imaging_and_accelerated",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:non_destructive_imaging_and_accelerated"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NCsNHesAAAAJ&citpid=3"
+        }
+    ],
+    "pagination": {
+        "next": "https://serpapi.com/search.json?after_author=T0geALRO_v8J&engine=google_scholar_profiles&hl=en&mauthors=Alexander",
+        "next_page_token": "T0geALRO_v8J"
+    }
+}

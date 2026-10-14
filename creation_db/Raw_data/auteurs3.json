@@ -1,0 +1,283 @@
+{
+    "search_metadata": {
+        "id": "6746e37539e232ea4bf0101f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/115a7110b4c20b2c/6746e37539e232ea4bf0101f.json",
+        "created_at": "2024-11-27 09:16:37 UTC",
+        "processed_at": "2024-11-27 09:16:37 UTC",
+        "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Charles&view_op=search_authors&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/115a7110b4c20b2c/6746e37539e232ea4bf0101f.html",
+        "total_time_taken": 1.07
+    },
+    "search_parameters": {
+        "engine": "google_scholar_profiles",
+        "mauthors": "Charles",
+        "hl": "en"
+    },
+    "profiles": [
+        {
+            "name": "Charles M. Perou",
+            "link": "https://scholar.google.com/citations?hl=en&user=JCqzqUMAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JCqzqUMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JCqzqUMAAAAJ",
+            "affiliations": "University of North Carolina at Chapel Hill",
+            "email": "Verified email at med.unc.edu",
+            "cited_by": 293317,
+            "interests": [
+                {
+                    "title": "Breast Cancer",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abreast_cancer",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:breast_cancer"
+                },
+                {
+                    "title": "Cancer",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acancer",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:cancer"
+                },
+                {
+                    "title": "Genetics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agenetics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:genetics"
+                },
+                {
+                    "title": "Genomics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agenomics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:genomics"
+                },
+                {
+                    "title": "Clinical Research",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aclinical_research",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:clinical_research"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JCqzqUMAAAAJ&citpid=8"
+        },
+        {
+            "name": "Charles DA Wolfe",
+            "link": "https://scholar.google.com/citations?hl=en&user=OFXDjHYAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OFXDjHYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OFXDjHYAAAAJ",
+            "affiliations": "Professor of Public Health Medicine, King's College London",
+            "email": "Verified email at kcl.ac.uk",
+            "cited_by": 248246,
+            "interests": [
+                {
+                    "title": "Stroke",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astroke",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:stroke"
+                },
+                {
+                    "title": "Epidemiology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aepidemiology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:epidemiology"
+                },
+                {
+                    "title": "Health Services Research",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahealth_services_research",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:health_services_research"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OFXDjHYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Charles S. Carver",
+            "link": "https://scholar.google.com/citations?hl=en&user=Gn5Fc8kAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Gn5Fc8kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Gn5Fc8kAAAAJ",
+            "affiliations": "University of Miami",
+            "email": "Verified email at miami.edu",
+            "cited_by": 193616,
+            "interests": [
+                {
+                    "title": "psychology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsychology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:psychology"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Charles Robert Darwin",
+            "link": "https://scholar.google.com/citations?hl=en&user=D847cGsAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=D847cGsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "D847cGsAAAAJ",
+            "affiliations": "naturalist (1809-1882)",
+            "email": "Verified email at unr.edu.ar",
+            "cited_by": 187317,
+            "interests": [
+                {
+                    "title": "life sciences",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alife_sciences",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:life_sciences"
+                },
+                {
+                    "title": "evolution",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aevolution",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:evolution"
+                },
+                {
+                    "title": "biogeography",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiogeography",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:biogeography"
+                },
+                {
+                    "title": "speciation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aspeciation",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:speciation"
+                },
+                {
+                    "title": "natural selection",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_selection",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:natural_selection"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=D847cGsAAAAJ&citpid=2"
+        },
+        {
+            "name": "Tobin Marks",
+            "link": "https://scholar.google.com/citations?hl=en&user=UVvGrbcAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UVvGrbcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UVvGrbcAAAAJ",
+            "affiliations": "Charles E. and Emma H. Morrison Professor of Chemistry, Northwestern University",
+            "cited_by": 169145,
+            "interests": [
+                {
+                    "title": "Organometallic Chemistry",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aorganometallic_chemistry",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:organometallic_chemistry"
+                },
+                {
+                    "title": "Molecular Photonics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amolecular_photonics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:molecular_photonics"
+                },
+                {
+                    "title": "Transparent Oxides",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atransparent_oxides",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:transparent_oxides"
+                },
+                {
+                    "title": "Molecular Electronics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amolecular_electronics",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:molecular_electronics"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Charles Tilly",
+            "link": "https://scholar.google.com/citations?hl=en&user=uFCD3HoAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=uFCD3HoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "uFCD3HoAAAAJ",
+            "affiliations": "Columbia University",
+            "cited_by": 158389,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uFCD3HoAAAAJ&citpid=1"
+        },
+        {
+            "name": "Charles Matthew Roberto",
+            "link": "https://scholar.google.com/citations?hl=en&user=HNgymPQAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HNgymPQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HNgymPQAAAAJ",
+            "affiliations": "Harvard University",
+            "cited_by": 157499,
+            "interests": [
+                {
+                    "title": "Structural Analysis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astructural_analysis",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:structural_analysis"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HNgymPQAAAAJ&citpid=1"
+        },
+        {
+            "name": "Charles Nemeroff",
+            "link": "https://scholar.google.com/citations?hl=en&user=8_YXJ-kAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8_YXJ-kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8_YXJ-kAAAAJ",
+            "affiliations": "Professor of Psychiatry, University of Texas at Austin Dell Medical School",
+            "email": "Verified email at austin.utexas.edu",
+            "cited_by": 152354,
+            "interests": [
+                {
+                    "title": "childhood maltreatment",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Achildhood_maltreatment",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:childhood_maltreatment"
+                },
+                {
+                    "title": "psychopharmacology",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apsychopharmacology",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:psychopharmacology"
+                },
+                {
+                    "title": "mood disorders",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amood_disorders",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:mood_disorders"
+                }
+            ],
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Charles Newton",
+            "link": "https://scholar.google.com/citations?hl=en&user=qRoHcawAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qRoHcawAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qRoHcawAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at psych.ox.ac.uk",
+            "cited_by": 135301,
+            "interests": [
+                {
+                    "title": "Epilepsy",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aepilepsy",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:epilepsy"
+                },
+                {
+                    "title": "Central Nervous Systems infections",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acentral_nervous_systems_infections",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:central_nervous_systems_infections"
+                },
+                {
+                    "title": "Neurodevelopmental Disorders",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneurodevelopmental_disorders",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:neurodevelopmental_disorders"
+                },
+                {
+                    "title": "Autism",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aautism",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:autism"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qRoHcawAAAAJ&citpid=1"
+        },
+        {
+            "name": "Charles Serhan",
+            "link": "https://scholar.google.com/citations?hl=en&user=MD0MehIAAAAJ",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MD0MehIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MD0MehIAAAAJ",
+            "affiliations": "Brigham & Women's Hospital Harvard Medical School",
+            "email": "Verified email at zeus.bwh.harvard.edu",
+            "cited_by": 130529,
+            "interests": [
+                {
+                    "title": "Resolution of Inflammation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aresolution_of_inflammation",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:resolution_of_inflammation"
+                },
+                {
+                    "title": "Chemical Mediators",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Achemical_mediators",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:chemical_mediators"
+                },
+                {
+                    "title": "Leukocytes",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aleukocytes",
+                    "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:leukocytes"
+                }
+            ],
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MD0MehIAAAAJ&citpid=2"
+        }
+    ],
+    "pagination": {
+        "next": "https://serpapi.com/search.json?after_author=6gcqABwC_v8J&engine=google_scholar_profiles&hl=en&mauthors=Charles",
+        "next_page_token": "6gcqABwC_v8J"
+    }
+}
